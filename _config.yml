@@ -35,7 +35,7 @@ color:
     - '#ea5857'
     - '#00e300'
   brandStrength: 0
-  lightness: 0.625
+  lightness: 0
   saturation: 0
   rhythmicContrast: 1
 purpose: []
