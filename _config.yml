@@ -1,29 +1,41 @@
-name: vannygee
-favicon: null
-layout_spectrum: 0.75944
-typography_spectrum: 0.7934135955292732
 title: vannygee
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.01946228
+  brandStrength: 1
+  lightness: 0.1778636
+  brandColors:
+    - '#0E0C0D'
+    - '#FBA2BD'
+    - '#4B424B'
+    - '#917088'
+    - '#7676F2'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: vannygee
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.1744087866973132
-  lightness: 0.17786361323669553
-  saturation: 0.01946228160522878
-  rhythmicContrast: 0.5500123847741634
-purpose: []
+typography_spectrum: 0.7992831
+layout_spectrum: 1
