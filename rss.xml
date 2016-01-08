@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 17:42:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/vannygee/d9a5fabc-ebf9-4323-b015-0ca78f41f415/index.html</link>
             <guid isPermaLink="false">d9a5fabc-ebf9-4323-b015-0ca78f41f415</guid>
             <pubDate>Fri, 08 Jan 2016 17:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First Post]]></title>
-            <description><![CDATA[<article><h1>The First Post</h1><p>Let's try out the Grid</p></article>]]></description>
-            <link>https://thegrid.ai/vannygee/the-first-post/index.html</link>
-            <guid isPermaLink="false">4a156bb2-de1e-4585-bb63-784d1a1e6fce</guid>
-            <pubDate>Fri, 08 Jan 2016 17:17:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
