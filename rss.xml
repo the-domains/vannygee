@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 17:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 17:28:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -15,16 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> If you are inventing the future, market research (read Petitions) are useless. Like Ford said "..if I had asked consumers what they wanted they would have said "a faster horse".."</p>]]></description>
             <link>https://thegrid.ai/vannygee/1fc29c97-3018-4c9b-9cc8-015dbc6ac237/index.html</link>
             <guid isPermaLink="false">1fc29c97-3018-4c9b-9cc8-015dbc6ac237</guid>
             <pubDate>Sun, 10 Jan 2016 17:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fede72f5-0ad6-4075-b41c-348d83814db2.jpg">]]></description>
-            <link>https://thegrid.ai/vannygee/49f85d32-c0b1-4837-99d7-82870187043b/index.html</link>
-            <guid isPermaLink="false">49f85d32-c0b1-4837-99d7-82870187043b</guid>
-            <pubDate>Fri, 08 Jan 2016 22:16:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
