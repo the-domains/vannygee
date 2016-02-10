@@ -43,8 +43,8 @@ description: 'Here are 10 ways to #kickstart your #mobile #strategy in 2016. Thi
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/itsmevannygee/status/697389766422237184'
-datePublished: '2016-02-10T20:19:57.733Z'
-dateModified: '2016-02-10T12:03:45.890Z'
+datePublished: '2016-02-10T20:22:54.741Z'
+dateModified: '2016-02-10T20:22:41.818Z'
 title: ''
 sourcePath: _posts/2016-02-10-here-are-10-ways-to-kickstart-your-mobile-strategy-in-201.md
 published: true
