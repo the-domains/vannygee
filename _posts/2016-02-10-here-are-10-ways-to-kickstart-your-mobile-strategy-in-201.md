@@ -1,24 +1,4 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://twitter.com/itsmevannygee/status/697389766422237184'
-inLanguage: en
-starred: false
-keywords:
-  - mobilemarketing
-  - location
-  - kickstart
-  - twitter
-  - tweet
-  - '2016'
-  - vannygee
-  - tvqjllvfd9
-  - ronsela
-  - mobile-marketing-strategy
-description: 'Here are 10 ways to #kickstart your #mobile #strategy in 2016. This is going to be a good year. http://www.ronsela.com/mobile-marketing-strategy/ ... #mobilemarketing'
-datePublished: '2016-02-10T12:07:45.939Z'
-dateModified: '2016-02-10T12:07:33.985Z'
 author:
   - name: itsmevannygee
     url: 'http://twitter.com/itsmevannygee'
@@ -43,16 +23,34 @@ author:
           - 153
           - 115
 related: []
-app_links: []
-title: ''
-authors: []
 publisher:
-  name: Twitter
-  domain: twitter.com
   url: 'http://twitter.com'
+  name: Twitter
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+  domain: twitter.com
+keywords:
+  - mobilemarketing
+  - location
+  - kickstart
+  - twitter
+  - tweet
+  - '2016'
+  - vannygee
+  - tvqjllvfd9
+  - ronsela
+  - mobile-marketing-strategy
+description: 'Here are 10 ways to #kickstart your #mobile #strategy in 2016. This is going to be a good year. http://www.ronsela.com/mobile-marketing-strategy/ ... #mobilemarketing'
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'https://twitter.com/itsmevannygee/status/697389766422237184'
+datePublished: '2016-02-10T20:19:57.733Z'
+dateModified: '2016-02-10T12:03:45.890Z'
+title: ''
 sourcePath: _posts/2016-02-10-here-are-10-ways-to-kickstart-your-mobile-strategy-in-201.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Comment
 _context: 'http://schema.org'
 
