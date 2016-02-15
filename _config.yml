@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: UA-73577113-1
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: vannygee
+favicon: null
+layout_spectrum: 0.87623
+typography_spectrum: 0.26836
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.87623
 title: vannygee
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-73577113-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
   brandColors:
     - '#100b0f'
     - '#c496d6'
     - '#7475f5'
     - '#51484d'
     - '#ffeabe'
+  brandStrength: 0.5625
   lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-name: vannygee
-typography_spectrum: 0.26836
