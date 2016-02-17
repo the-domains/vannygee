@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/miamibeats/hold-on'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Miami Beats launches its label with this captivating release by Australian artist @Bergsofficial. With sweet vocals full of summer, supplied by Rachel Fels, this will immediately teleport you to the beach with an azure blue sea and palm trees gently waving in that summer breeze.'
+datePublished: '2016-02-17T23:00:02.512Z'
+dateModified: '2016-02-17T22:59:25.698Z'
 author:
   - name: Miami Beats
     url: 'http://soundcloud.com/miamibeats'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Spotify: http://miamibe.at/holdonspotify Deezer: http://miamibe.at/holdondeezer iTunes: http://miamibe.at/holdonitunes Miami Beats launches its label with this captivating release by Australian artist @Bergsofficial. With sweet vocals full of summer, supplied by Rachel Fels, this will immediately teleport you to the beach with an azure blue sea and palm trees gently waving in that summer breeze.'
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,15 +25,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:245912054'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/miamibeats/hold-on'
 title: Bergs // Hold On (feat. Rachel Fels) by Miami Beats
-datePublished: '2016-02-09T19:48:22.826Z'
-dateModified: '2016-02-09T19:46:17.254Z'
 sourcePath: _posts/2016-02-09-bergs-hold-on-feat-rachel-fels-by-miami-beats.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
