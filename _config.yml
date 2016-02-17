@@ -1,6 +1,6 @@
 name: vannygee
 favicon: null
-layout_spectrum: 0.87623
+layout_spectrum: 0
 typography_spectrum: 0.26836
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#7475f5'
     - '#51484d'
     - '#ffeabe'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 0.375
   saturation: 0.8125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
