@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 01:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 01:40:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vannygee/d9a5fabc-ebf9-4323-b015-0ca78f41f415/index.html</link>
             <guid isPermaLink="false">d9a5fabc-ebf9-4323-b015-0ca78f41f415</guid>
             <pubDate>Wed, 27 Jan 2016 19:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be A Fucking Weirdo. - Life Learning]]></title>
+            <description><![CDATA[<article><h1>Be A Fucking Weirdo. - Life Learning</h1><p>When you can approach a problem or a challenge from your own individual and singular viewpoint, using your innate weirdness and the personality that sets you apart from anyone else in the world who cannot live inside your head, you'll reach creativity.</p><img src="https://cdn-images-1.medium.com/max/2000/1*zKfodSXh85LX5nhF4_wjpQ.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/vannygee/be-a-fucking-weirdo-life-learning/index.html</link>
+            <guid isPermaLink="false">0fc8b735-79ab-4259-985a-ed213637fd25</guid>
+            <pubDate>Sat, 20 Feb 2016 01:39:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Most People Don't Understand About How Startup Companies are Valued | Bothsides of the Table]]></title>
@@ -68,15 +75,6 @@
             <link>https://soundcloud.com/miamibeats/hold-on</link>
             <guid isPermaLink="false">d94a2aa4-632f-4884-90ec-d958cb7d5855</guid>
             <pubDate>Wed, 17 Feb 2016 23:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ "If I had asked people what they wanted, they would have said faster horses." --Henry Ford
-]]></title>
-            <description><![CDATA[<article><h1> "If I had asked people what they wanted, they would have said faster horses." --Henry Ford
-</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d9cdb28a4c6fb90640049c525d0a6819b777524.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vannygee/1fc29c97-3018-4c9b-9cc8-015dbc6ac237/index.html</link>
-            <guid isPermaLink="false">1fc29c97-3018-4c9b-9cc8-015dbc6ac237</guid>
-            <pubDate>Wed, 27 Jan 2016 19:08:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
