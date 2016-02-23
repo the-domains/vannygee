@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 18:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 12:51:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vannygee/d9a5fabc-ebf9-4323-b015-0ca78f41f415/index.html</link>
             <guid isPermaLink="false">d9a5fabc-ebf9-4323-b015-0ca78f41f415</guid>
             <pubDate>Wed, 27 Jan 2016 19:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check this out ]]></title>
+            <description><![CDATA[<article><h1>Check this out </h1><p>Collect & create with this incredible FREE artwork in @Over now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6be7f1338d8c3a69aabaf0afbb1847aa73b5714.jpg"></article>]]></description>
+            <link>https://bnc.lt/g74c/COFMisONar</link>
+            <guid isPermaLink="false">6979e088-d98e-49f8-8dd1-f4136aaebe0f</guid>
+            <pubDate>Tue, 23 Feb 2016 12:50:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/EarthPix/status/698985340967723008</link>
             <guid isPermaLink="false">b26b6bb6-0b09-49e4-b301-926d70f73ffc</guid>
             <pubDate>Wed, 17 Feb 2016 22:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life Happens Coffee Helps]]></title>
-            <description><![CDATA[<article><h1>Life Happens Coffee Helps</h1><p>Collect this beautiful artwork in @Over today!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd85ee0aec8cd888098cbe350bb2dc1d8008e05a.jpg"></article>]]></description>
-            <link>https://bnc.lt/g74c/68xVIyAbZq</link>
-            <guid isPermaLink="false">e12dc4eb-353f-43c0-9ca6-be6ccc1a19ed</guid>
-            <pubDate>Mon, 15 Feb 2016 14:01:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
