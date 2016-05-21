@@ -35,10 +35,10 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/TEDEducation/videos/1177815985564939/?pnref=story'
-datePublished: '2016-05-21T18:52:54.908Z'
-dateModified: '2016-05-21T18:51:43.708Z'
-starred: false
+datePublished: '2016-05-21T18:56:00.100Z'
+dateModified: '2016-05-21T18:55:59.764Z'
 sourcePath: _posts/2016-05-21-happy-birthday-leonardo-da-vinci-to-celebrate-brush-up-on.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
