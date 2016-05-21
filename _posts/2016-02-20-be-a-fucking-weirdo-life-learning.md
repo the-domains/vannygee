@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'http://cdn.slidesharecdn.com/ss_thumbnails/kpjrhx5stgaqoaesnh7r-signature-3f945d39ba23dd9cfcfd3fee5874bd5293c55aa2180b30512d3379a1f65479ee-poli-150716175148-lva1-app6892-thumbnail-4.jpg?cb=1438021298'
     thumbnail_width: 768
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - passion
   - creative
@@ -41,15 +41,16 @@ app_links:
     type: android
   - url: 'https://medium.com/life-learning/be-a-fucking-weirdo-bb842a0250d'
     type: web
+isBasedOnUrl: 'https://medium.com/life-learning/be-a-fucking-weirdo-bb842a0250d#.vblkkuytp'
 title: Be A Fucking Weirdo. - Life Learning
-datePublished: '2016-02-20T01:39:56.942Z'
-dateModified: '2016-02-20T01:39:42.054Z'
+datePublished: '2016-05-21T18:53:08.012Z'
+dateModified: '2016-02-20T18:13:39.759Z'
 sourcePath: _posts/2016-02-20-be-a-fucking-weirdo-life-learning.md
-published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: be-a-fucking-weirdo-life-learning/index.html
+starred: true
+authors: []
 _type: Article
 _context: 'http://schema.org'
 
