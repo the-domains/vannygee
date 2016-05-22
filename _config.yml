@@ -1,7 +1,7 @@
 name: vannygee
 favicon: null
-layout_spectrum: 0.67966
-typography_spectrum: 0.43115
+layout_spectrum: 0.3594467411749065
+typography_spectrum: 0.7715906656812876
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#200e0c'
-    - '#fffbef'
-    - '#dcbebe'
-    - '#705d7a'
-    - '#f28f65'
-  brandStrength: 0.1875
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.9425921374931931
+  lightness: 0.7413181378506124
+  saturation: 0.21832970948889852
+  rhythmicContrast: 0.5632019452750683
 purpose: []
