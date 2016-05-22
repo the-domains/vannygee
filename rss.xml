@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 12:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 19:17:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://stripe.com/atlas</link>
             <guid isPermaLink="false">3b4955a6-1653-46bc-95bd-e258b0d4bedc</guid>
             <pubDate>Thu, 25 Feb 2016 08:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashworth - A Thousand Miles by Ashworth]]></title>
+            <description><![CDATA[<article><h1>Ashworth - A Thousand Miles by Ashworth</h1><p>This was a song everyone was singing back when it came out in 2001. Crazy to think it has been 15 years... Then came Terry Crews' version from White Chicks in 2004 and finally here in 2016 I decided it was time for me to put my own spin on the song by singing and producing it the way I heard it in my head.</p></article>]]></description>
+            <link>https://soundcloud.com/ashworthofficial/ashworth-a-thousand-miles</link>
+            <guid isPermaLink="false">6a63787f-730e-48e5-9060-2f5ddd0d531a</guid>
+            <pubDate>Sun, 22 May 2016 19:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Schulz - Real Love (Remix) by Alex Schulz Official]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/228803477461289/videos/231962560478714/</link>
             <guid isPermaLink="false">e8e16971-6f10-47c5-b88e-b5f7675c13a5</guid>
             <pubDate>Sun, 21 Feb 2016 18:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-ams3-1.xx.fbcdn.net/hphotos-xlf1/t31.0-8/12764626_10153899240183350_105230557502301405_o.jpg">]]></description>
-            <link>https://thegrid.ai/vannygee/76d77218-8776-494d-a2cb-f0ebced9cb68/index.html</link>
-            <guid isPermaLink="false">76d77218-8776-494d-a2cb-f0ebced9cb68</guid>
-            <pubDate>Sat, 20 Feb 2016 18:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
