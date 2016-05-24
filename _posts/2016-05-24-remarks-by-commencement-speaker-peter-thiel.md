@@ -61,10 +61,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/id4ywg5oemc'
 title: Remarks by Commencement Speaker Peter Thiel
-datePublished: '2016-05-24T08:55:54.374Z'
-dateModified: '2016-05-24T08:55:54.062Z'
+datePublished: '2016-05-24T08:55:58.164Z'
+dateModified: '2016-05-24T08:55:57.988Z'
 sourcePath: _posts/2016-05-24-remarks-by-commencement-speaker-peter-thiel.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
