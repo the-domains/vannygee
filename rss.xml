@@ -4,7 +4,7 @@
         <description><![CDATA[vannygee]]></description>
         <link>https://thegrid.ai/vannygee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 08:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 08:53:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vannygee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,7 +29,14 @@
         </item>
         <item>
             <title><![CDATA[Remarks by Commencement Speaker Peter Thiel]]></title>
-            <description><![CDATA[<article><h1>Remarks by Commencement Speaker Peter Thiel</h1><p>Peter Thiel, co-founder of worldwide online payments system PayPal, delivered the Commencement address at Hamilton College on May 22, 2016.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Remarks by Commencement Speaker Peter Thiel</h1><p>Peter Thiel, co-founder of worldwide online payments system PayPal, delivered the Commencement address at Hamilton College on May 22, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83aaf1bcac2d0c9b131c4a43114823fff1588e3b.jpg"></article>]]></description>
+            <link>https://youtu.be/id4ywg5oemc</link>
+            <guid isPermaLink="false">6945ed04-3a8f-4d6b-b68c-4ead99c30b29</guid>
+            <pubDate>Tue, 24 May 2016 08:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remarks by Commencement Speaker Peter Thiel]]></title>
+            <description><![CDATA[<article><h1>Remarks by Commencement Speaker Peter Thiel</h1><p>Peter Thiel, co-founder of worldwide online payments system PayPal, delivered the Commencement address at Hamilton College on May 22, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83aaf1bcac2d0c9b131c4a43114823fff1588e3b.jpg"></article>]]></description>
             <link>https://youtu.be/id4ywg5oemc</link>
             <guid isPermaLink="false">fff76ffd-e4e2-433e-aabe-9f9cf475bb1a</guid>
             <pubDate>Tue, 24 May 2016 08:51:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/itsmevannygee/status/702750299887411200</link>
             <guid isPermaLink="false">f9e42f75-abbf-4c27-9cd1-3a5a001d70a7</guid>
             <pubDate>Thu, 25 Feb 2016 07:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Check this out ]]></title>
-            <description><![CDATA[<article><h1>Check this out </h1><p>Collect & create with this incredible FREE artwork in @Over now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cae7f0caa55196bd49794084c6e38a2348f032a.jpg"></article>]]></description>
-            <link>https://bnc.lt/g74c/COFMisONar</link>
-            <guid isPermaLink="false">6979e088-d98e-49f8-8dd1-f4136aaebe0f</guid>
-            <pubDate>Tue, 23 Feb 2016 12:50:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
